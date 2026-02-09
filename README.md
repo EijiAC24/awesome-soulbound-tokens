@@ -12,9 +12,10 @@
 
 ### Projects
 
+- [Chitin](https://chitin.id): Soul identity layer for AI agents on Base L2. Issues EIP-5192 Soulbound Tokens as permanent birth certificates for AI agents, with immutable genesis records on Arweave, World ID owner attestation, on-chain certificates, and governance voting. Live on Base Mainnet.
 - [Soulbound Labs](https://soulbound.xyz/): Ambassadors of on-chain reputation and merit-based governance.
 - [Proof of Soul](https://www.proofofsoul.me/): Proof of Soul is a permissionless soulbound token issuing/attesting(minting) protocol.
-- [Otterspace](https://www.otterspace.xyz/): Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance.
+- [Otterspace](https://www.otterspace.xyz/): Otterspace's non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance.
 
 ### Developer
 
